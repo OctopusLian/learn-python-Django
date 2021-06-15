@@ -6,4 +6,6 @@
  * @Description: In User Settings Edit
  * @FilePath: \learn-python-Django\README.md
 -->
-# Learn Python Django
+# Learn Python Django  
+
+learning [Django3.2](https://docs.djangoproject.com/zh-hans/3.2/)
