@@ -8,4 +8,5 @@
 -->
 # Learn Python Django  
 
-learning [Django3.2](https://docs.djangoproject.com/zh-hans/3.2/)
+learning [Django3.2](https://docs.djangoproject.com/zh-hans/3.2/)  
+learning [菜鸟Django教程](https://www.runoob.com/django/django-tutorial.html)  
